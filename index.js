@@ -1,0 +1,3 @@
+function cliqueAqui() {
+  alert('OK');
+}
